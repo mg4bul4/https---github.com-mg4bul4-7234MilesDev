@@ -5,7 +5,7 @@ const notifSound = document.getElementById("notif-sound");
 // Chat storyline
 const storyline = {
     start: {
-        message: "Hey, I need your help! What should I do?",
+        message: "Hey, I need your help! What should I do??",
         choices: [
             { text: "What's wrong?", next: "problem" },
             { text: "Leave me alone.", next: "rude" }
